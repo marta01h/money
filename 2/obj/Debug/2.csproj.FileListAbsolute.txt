@@ -1,0 +1,7 @@
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\2\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\2\2\obj\Debug\2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\2\2\obj\Debug\CheckRequesterByQR.resources
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\2\2\obj\Debug\_2.Properties.Resources.resources
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\2\2\obj\Debug\2.csproj.GenerateResource.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\2\2\obj\Debug\_2.Form1.resources
